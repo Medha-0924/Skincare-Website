@@ -52,13 +52,13 @@ npm start
 ## ⚠️ Make sure to set up your .env file with proper MongoDB connection URI, JWT secret, etc.
 
 ### Snapshorts
-![image](https://github.com/user-attachments/assets/9617792a-92a6-4690-8eb0-a77a0c234915)
+[image](https://github.com/user-attachments/assets/9617792a-92a6-4690-8eb0-a77a0c234915)
 
-![image](https://github.com/user-attachments/assets/a6f3737d-5e17-4560-b0c5-3f05fddcd640)
+[image](https://github.com/user-attachments/assets/a6f3737d-5e17-4560-b0c5-3f05fddcd640)
 
-![image](https://github.com/user-attachments/assets/bcfaaa4a-2f77-4473-893c-1745b3c8166d)
+[image](https://github.com/user-attachments/assets/bcfaaa4a-2f77-4473-893c-1745b3c8166d)
 
-![image](https://github.com/user-attachments/assets/7d963bf5-bfbc-4205-9c33-036499394c4c)
+[image](https://github.com/user-attachments/assets/7d963bf5-bfbc-4205-9c33-036499394c4c)
 
 ### 🙋‍♀️ Developed By
 Medha Anand Chomal
