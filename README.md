@@ -32,15 +32,8 @@ A full-stack skincare e-commerce web application built using modern web technolo
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/skincare-ecommerce.git
-cd skincare-ecommerce
-
 ### Start the Frontend
 
-npm install
 npm run dev
 
 ### Start the Backend
@@ -51,12 +44,17 @@ npm start
 
 ## ⚠️ Make sure to set up your .env file with proper MongoDB connection URI, JWT secret, etc.
 
-### Snapshorts
-<img width="896" alt="Screenshot 2024-05-20 140115" src="https://github.com/user-attachments/assets/fa570ea3-4bb8-4953-8cc9-95b96b765409" />
+##Snapshorts
 
-<img width="896" alt="Screenshot 2024-05-20 140133" src="https://github.com/user-attachments/assets/65d52b6a-14e9-43b0-8a89-a50061613f7a" />
+<img width="896" alt="Screenshot 2024-05-20 140115" src="https://github.com/user-attachments/assets/8b4728ec-d5a6-447e-8678-b95c685f7f07" />
 
-<img width="895" alt="Screenshot 2024-05-20 140154" src="https://github.com/user-attachments/assets/e374d8c6-c1a3-4263-bbdd-7afb095df318" />
+<img width="896" alt="Screenshot 2024-05-20 140133" src="https://github.com/user-attachments/assets/7c1d2de9-be6c-4185-967c-85a5b6d00749" />
+
+<img width="895" alt="Screenshot 2024-05-20 140154" src="https://github.com/user-attachments/assets/c9fcdb3b-e77e-41b4-af7e-f59d1e985d10" />
+
+![Screenshot 2024-11-29 164641](https://github.com/user-attachments/assets/09d08a95-401d-49ef-a6d2-d19076fc8d5a)
+
+![Screenshot 2024-11-29 164657](https://github.com/user-attachments/assets/fde24ea0-74db-441f-b938-13750962722c)
 
 ### 🙋‍♀️ Developed By
 Medha Anand Chomal
