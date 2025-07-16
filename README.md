@@ -45,7 +45,11 @@ Users can view a detailed history of past purchases — including product names,
 ***🚀 How to Run Locally***
 
 git clone https://github.com/your-username/skincare-website.git
+
 cd skincare-website
+
 npm install
+
 npm run dev
+
 Open your browser at http://localhost:3000
