@@ -1,8 +1,29 @@
-# React + Vite
+🌿 Skincare E-Commerce Website
+An aesthetically designed full-stack Skincare E-Commerce Platform built to deliver a seamless shopping experience for users seeking quality skincare products. This project demonstrates a powerful combination of front-end creativity and back-end robustness using modern web technologies.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
 
-Currently, two official plugins are available:
+Backend: Node.js, Express.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Database: MongoDB
+
+Authentication: JWT (JSON Web Token)
+
+Other Integrations: Payment Gateway API (e.g., Razorpay/Stripe)
+
+✨ Features
+👩‍🎨 Beautiful and Responsive UI
+A soothing, nature-inspired design reflecting skincare aesthetics — fully responsive across devices.
+
+🛒 Add to Cart
+Allows users to easily add/remove items, update quantities, and preview the cart before checkout.
+
+🔐 Secure Authentication
+JWT-based user authentication for Login and Signup, ensuring secure user sessions.
+
+💳 Payment Gateway Integration
+Users can complete their purchase with a secure and smooth payment flow.
+
+📦 Order History
+Users can view a detailed history of past purchases — including product names, dates, and order IDs.
